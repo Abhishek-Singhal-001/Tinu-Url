@@ -51,16 +51,16 @@ Run both the frontend and backend on links provided
 
 ## 🚀 Live Demo
 
-- **Frontend (Dashboard):** https://your-frontend.onrender.com
-- **Backend API:** https://your-backend.onrender.com
-- **Health Check:** https://your-backend.onrender.com/healthz
-- **Example Short Link:** https://your-backend.onrender.com/demo123
+- **Frontend (Dashboard):** https://tinu-url-frontend.onrender.com
+- **Backend API:** https://tinu-url-3.onrender.com
+- **Health Check:** https://tinu-url-3.onrender.com/healthz
+- **Example Short Link:** https://tinu-url-3.onrender.com/leetCode
 
 ---
 
 ## 🎥 Video Walkthrough
 
-📹 **[Watch Demo & Code Explanation](https://your-video-link.com)**
+📹 **[Watch Demo & Code Explanation]
 
 Topics covered:
 - Application demo
