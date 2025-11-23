@@ -29,7 +29,7 @@ function App() {
       setLinks(data);
     } catch (error) {
       console.error('Error loading links:', error);
-      showNotification('Error connecting to server. Make sure backend is running on port 3001', 'error');
+      showNotification('Error connecting to server. Make sure backend is running on port ', 'error');
     } finally {
       setLoading(false);
     }
