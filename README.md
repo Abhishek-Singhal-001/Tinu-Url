@@ -88,19 +88,21 @@ I used AI assistance for:
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+Dashboard :  https://drive.google.com/file/d/1_Tzzi9afR7_FfmUvu0GSTcDsMNx6_BGs/view?usp=sharing
 *Main dashboard showing all shortened links with statistics*
 
 ### Create Link
-![Create Link](./screenshots/create-link.png)
+create Link :   https://drive.google.com/file/d/1JNpVOd4Ao8IkAf8-_6oJ4GcRCw1q-Rnz/view?usp=sharing
 *Form for creating new short links with custom codes*
 
 ### Link Statistics
-![Statistics](./screenshots/stats.png)
+Stats: https://drive.google.com/file/d/1iwh0OemLutKh0quBnKcoai2HAS-2VSkE/view?usp=sharing
 *Detailed analytics for individual links*
 
 ### Mobile View
-![Mobile](./screenshots/mobile.png)
+mobile :  1.  https://drive.google.com/file/d/1UQKwCfWBRv9B7tg34zxL7kwHC5XxY44W/view?usp=sharing
+          2.  https://drive.google.com/file/d/1xIC4DypFEe6gj9-0ukX-iq8B_Zvd2qjX/view?usp=sharing
+          3.  https://drive.google.com/file/d/1lX3EZL5OU_uDIyA13BYXPbOcrNEVB4zz/view?usp=sharing
 *Responsive design on mobile devices*
 
 ---
